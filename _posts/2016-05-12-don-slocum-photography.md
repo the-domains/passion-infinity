@@ -4,13 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Halema'uma'u Crater Big Island"
-datePublished: '2016-05-12T20:44:23.293Z'
-dateModified: '2016-05-12T20:44:09.634Z'
-title: ''
+description: 'Visual Delights '
+datePublished: '2016-05-12T21:05:38.765Z'
+dateModified: '2016-05-12T21:05:12.456Z'
+title: Milky Way Blues
 author:
-  - name: 'Don Slocum '
-    url: 'http://www.donslocum.com'
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-12-don-slocum-photography.md
 authors: []
 publisher:
@@ -23,6 +23,8 @@ url: don-slocum-photography/index.html
 _type: Article
 
 ---
-![Milky Way Blues ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe61c6755f1f60eab231b11b387c9e5f64dac14.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6db77c5-c7b5-45ad-bcfd-d9c102f6bce2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d1ab13d-51ce-4bb7-9d93-bcf4db489900.jpg)
+Visual Delights ![Milky Way Blues ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe61c6755f1f60eab231b11b387c9e5f64dac14.jpg)
+
+Let Me Take You to Another Place
+Someone handed me a camera when I was 19 years old and I never looked back. I've shot nearly everything in the book, Bands, Performers, Fashion, Commercial, but my new muse is the fantastic scenic locations of Hawaii, especially the Big Island I call home. With it's rich assortment of locations and wide diversity it may be unmatched on planet earth. The more I scratch the surface, getting out creating images, the more I discover and the more special locations unfold to me. I trust you'll enjoy on this ongoing journey with me.
+Don
