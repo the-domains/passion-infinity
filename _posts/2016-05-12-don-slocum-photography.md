@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Let Me Take You to Another Place Someone handed me a camera when I was 19 years old and I never looked back. I've shot nearly everything in the book, Bands, Performers, Fashion, Commercial, but my new muse is the fantastic scenic locations of Hawaii, especially the Big Island I call home. With it's rich assortment of locations and wide diversity it may be unmatched on planet earth. The more I scratch the surface, getting out creating images, the more I discover and the more special locations unfold to me. I trust you'll enjoy on this ongoing journey with me. Don"
-datePublished: '2016-05-15T04:59:50.853Z'
-dateModified: '2016-05-15T04:33:54.896Z'
+datePublished: '2016-05-15T05:00:18.976Z'
+dateModified: '2016-05-15T05:00:02.191Z'
 title: Don Slocum
 author:
   - name: ''
