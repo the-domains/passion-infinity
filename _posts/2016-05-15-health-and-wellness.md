@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' Health and Wellness'
-datePublished: '2016-05-15T05:55:58.842Z'
-dateModified: '2016-05-15T05:55:56.746Z'
-title: ''
-author: []
+datePublished: '2016-05-15T05:57:18.576Z'
+dateModified: '2016-05-15T05:57:14.851Z'
+title: 'Mind Body Sol '
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-15-health-and-wellness.md
 authors: []
 publisher:
