@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Health and Wellness'
-datePublished: '2016-05-15T04:00:07.938Z'
-dateModified: '2016-05-15T03:59:49.211Z'
+datePublished: '2016-05-15T05:01:22.555Z'
+dateModified: '2016-05-15T05:01:07.081Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-health-and-wellness.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-health-and-wellness.md
 url: health-and-wellness/index.html
 _type: Article
 
 ---
 Health and Wellness
-
-https://soundcloud.com/andmeandyou/me-after-dark-preview?in=terraaina/sets/upbeat 
 
 http://consciouslifenews.com/10-great-juice-recipes-detoxing-body/1179891/ 
 
