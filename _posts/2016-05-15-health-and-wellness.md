@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ' Health and Wellness'
-datePublished: '2016-05-15T05:49:20.735Z'
-dateModified: '2016-05-15T05:49:13.687Z'
+datePublished: '2016-05-15T05:49:34.701Z'
+dateModified: '2016-05-15T05:49:28.530Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-health-and-wellness.md
