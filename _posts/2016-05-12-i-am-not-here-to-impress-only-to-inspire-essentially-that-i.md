@@ -1,14 +1,16 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "I AM not here to impress only to Inspire. Essentially that is the essence of life. I AM infinitely passion∞ about many of life's wonders especially the Divine element within all. I find joy in exploring every aspect of the Cosmic Breath which creates all physicality. "
-datePublished: '2016-05-12T20:35:33.694Z'
-dateModified: '2016-05-12T20:25:03.350Z'
+datePublished: '2016-05-15T05:03:17.277Z'
+dateModified: '2016-05-15T05:03:08.252Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-i-am-not-here-to-impress-only-to-inspire-essentially-that-i.md
 authors: []
 publisher:
   name: null
@@ -16,14 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-i-am-not-here-to-impress-only-to-inspire-essentially-that-i.md
-url: i-am-not-here-to-impress-only-to-inspire-essentially-that-i/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b85a301-6092-498c-aabc-7db0b1d24812.jpg)
 
-I AM not here to impress only to Inspire. Essentially that is the essence of life. I AM infinitely passion∞ about many of life's wonders especially the Divine element within all. I find joy in exploring every aspect of the Cosmic Breath which creates all physicality. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab7c6b51-f98c-48bd-a5c0-5717e6fd59d5.jpg)
+I AM not here to impress only to Inspire. Essentially that is the essence of life. I AM infinitely passion∞ about many of life's wonders especially the Divine element within all. I find joy in exploring every aspect of the Cosmic Breath which creates all physicality. 
 
 Let me take you on a magical journey into my Mind and likewise into the Mind's of the many beautiful souls who inspire me. Some of my favorite things include nature, music, art, photography, science, Vortex Based Mathematics, self-development, reading, writing, ancient wisdom and practices, holistic health and wellness, natural living through harmony and simplicity and much more. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5fd071-4679-4501-8ff2-d8f98fc5687e.jpg)
 
