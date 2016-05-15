@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' Health and Wellness'
-datePublished: '2016-05-15T05:57:18.576Z'
-dateModified: '2016-05-15T05:57:14.851Z'
+description: 'http://consciouslifenews.com/10-great-juice-recipes-detoxing-body/1179891/ '
+datePublished: '2016-05-15T05:58:03.376Z'
+dateModified: '2016-05-15T05:57:57.721Z'
 title: 'Mind Body Sol '
 author:
   - name: ''
@@ -24,13 +24,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdcda620-c5d4-4871-808c-d923e37bba6e.jpg)
-
-Health and Wellness
-
-http://consciouslifenews.com/10-great-juice-recipes-detoxing-body/1179891/ 
-
-http://draxe.com/what-is-frankincense/?utm\_source=newsletter&utm\_medium=email&utm\_campaign=newsletter
-
-https://c.stocksy.com/a/H39300/z1/749783.jpg 
-
-http://www.naturallivingideas.com/5-reasons-to-wash-your-face-with-apple-cider-vinegar/
