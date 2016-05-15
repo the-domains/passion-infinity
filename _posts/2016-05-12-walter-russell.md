@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Walter and Lao Russell '
-datePublished: '2016-05-15T05:02:16.352Z'
-dateModified: '2016-05-15T05:02:00.823Z'
+datePublished: '2016-05-15T05:02:24.571Z'
+dateModified: '2016-05-15T05:02:17.180Z'
 title: Russellian Science
 author:
   - name: Walter Russell
