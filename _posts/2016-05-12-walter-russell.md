@@ -6,19 +6,15 @@ isBasedOnUrl: 'http://www.philosophy.org'
 inLanguage: null
 keywords: []
 description: 'Walter and Lao Russell '
-datePublished: '2016-05-15T06:02:48.401Z'
-dateModified: '2016-05-15T06:02:46.031Z'
+datePublished: '2016-05-18T13:23:33.402Z'
+dateModified: '2016-05-18T13:23:24.117Z'
 title: Russellian Science
 author:
   - name: Walter Russell
     url: ''
 sourcePath: _posts/2016-05-12-walter-russell.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 _type: MediaObject
 
